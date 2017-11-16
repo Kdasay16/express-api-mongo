@@ -4,10 +4,9 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-
-        <header className="App-header">
-          <h1 className="App-title">KAYLA ASAY</h1>
+      <div className="Main">
+        <header className="Main-header">
+          <h1 className="Main-title">KAYLA ASAY</h1>
         </header>
       </div>
     );
